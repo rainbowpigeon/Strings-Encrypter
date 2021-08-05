@@ -7,7 +7,7 @@ C++ WinAPI program which encrypts strings in `.data` section of Windows PE with 
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 
-Check out my site at https://rainbowpigeon.netlify.app!
+Check out my site at https://rainbowpigeon.me!
 
 - Strings are naively defined to be a printable sequence of characters in the `.data` section of a `PE` that ends in a null byte.
 - References to found strings are stored in a simple linked list data structure.
